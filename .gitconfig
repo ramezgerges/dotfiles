@@ -1,0 +1,10 @@
+[user]
+	name = Ramez Gerges
+	email = es-Ramez.Adly2023@alexu.edu.eg
+[commit]
+	template = ~/.gitmessage
+[init]
+	defaultBranch = master
+[core]
+	pager = delta
+	editor = vim

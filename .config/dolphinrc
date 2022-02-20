@@ -1,0 +1,48 @@
+MenuBar=Disabled
+
+[CompactMode]
+FontWeight=50
+
+[Desktop Entry]
+DefaultProfile=
+
+[DetailsMode]
+FontWeight=50
+PreviewSize=22
+
+[General]
+Version=201
+ViewPropsTimestamp=2021,10,2,23,28,41.925
+
+[IconsMode]
+FontWeight=50
+PreviewSize=22
+
+[KPropertiesDialog]
+eDP-1 Height 1807x1016=603
+eDP-1 Width 1807x1016=511
+
+[MainWindow]
+MenuBar=Disabled
+ToolBarsMovable=Disabled
+eDP-1 Height 1807x1016=948
+eDP-1 Height 1920x1080=995
+eDP-1 Width 1807x1016=1807
+eDP-1 Width 1920x1080=1920
+eDP-1 Window-Maximized 1807x1016=true
+eDP-1 Window-Maximized 1920x1080=true
+eDP-1 XPosition 1807x1016=0
+eDP-1 XPosition 1920x1080=0
+eDP-1 YPosition 1807x1016=27
+eDP-1 YPosition 1920x1080=41
+
+[Open-with settings]
+CompletionMode=1
+History=kate,mpv
+
+[PreviewSettings]
+Plugins=marble_thumbnail_kml,marble_thumbnail_osm,ebookthumbnail,comicbookthumbnail,audiothumbnail,appimagethumbnail,djvuthumbnail,jpegthumbnail,marble_thumbnail_geojson,exrthumbnail,svgthumbnail,marble_thumbnail_gpx,kraorathumbnail,imagethumbnail,windowsimagethumbnail,fontthumbnail,opendocumentthumbnail,marble_thumbnail_shp,marble_thumbnail_kmz,windowsexethumbnail,directorythumbnail,cursorthumbnail
+
+[SettingsDialog]
+eDP-1 Height 1807x1016=422
+eDP-1 Width 1807x1016=721

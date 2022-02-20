@@ -1,0 +1,35 @@
+{
+    "security.workspace.trust.untrustedFiles": "open",
+    "editor.bracketPairColorization.enabled": true,
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "One Dark Pro Darker",
+    "workbench.enableExperiments": false,
+    "workbench.settings.enableNaturalLanguageSearch": false,
+    "update.mode": "none",
+    "go.lintOnSave": "file",
+    "go.lintTool": "golangci-lint",
+    "go.lintFlags": [
+        "--fast"
+    ],
+    "telemetry.telemetryLevel": "off",
+    "local-history.path": "~/.code_history",
+    "editor.fontLigatures": true,
+    "sync.gist": "a7c64007ac21778f34ef88cec57bad03",
+    "sync.autoDownload": true,
+    "sync.autoUpload": true,
+    "editor.renderWhitespace": "all",
+    "editor.rulers": [
+        60,
+        80,
+        100,
+        120,
+        140,
+        160,
+        180
+    ],
+    "editor.fontFamily": "'Iosevka Nerd Font', 'FiraCode Nerd Font Mono', 'Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'",
+    "window.zoomLevel": -1,
+    "go.survey.prompt": false,
+    "terminal.integrated.scrollback": 100000000,
+    "python.formatting.provider": "black",
+}

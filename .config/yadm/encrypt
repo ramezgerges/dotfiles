@@ -1,0 +1,5 @@
+Passwords.kdbx
+recovery_codes/
+.config/FreeTube/history.db
+.config/FreeTube/playlists.db
+.librewolf/librewolf.overrides.cfg

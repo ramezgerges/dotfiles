@@ -1,0 +1,10 @@
+{"_id":"autoplayVideos","value":true}
+{"_id":"bounds","value":{"x":0,"y":29,"width":1920,"height":1007,"maximized":true}}
+{"_id":"defaultQuality","value":"144"}
+{"_id":"defaultVideoFormat","value":"dash"}
+{"_id":"playNextVideo","value":false}
+{"_id":"proxyVideos","value":false}
+{"_id":"rememberHistory","value":true}
+{"_id":"saveWatchedProgress","value":true}
+{"_id":"useProxy","value":false}
+{"_id":"useSponsorBlock","value":true}
