@@ -6,5 +6,7 @@
 [init]
 	defaultBranch = master
 [core]
-	pager = delta
+	pager = delta --side-by-side
 	editor = vim
+[merge]
+	conflictstyle = diff3
